@@ -1,4 +1,4 @@
-.# Basic-Portfolio
+# Basic-Portfolio
 
 Claudia Castillo Basic Portfolio design.
 Build a professional portfolio site using HTML/CSS. 
